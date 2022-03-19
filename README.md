@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Kisshore! 👋</h1>
 <h3 align="center">An 15 year old fullstack developer</h3>
 <h3 align="center">
-   <a align="center" rel="me" href="">
-   <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-misskey-acea31?logoColor=acea31&style=for-the-badge&logo=misskey" alt="stop.voring.me (misskey)" height="40px"/>
    <br>
    </a>
 <p align="center">
