@@ -6,7 +6,7 @@
    </a>
 <p align="center">
    <details> <summary>View metrics</summary>
-    <a href="https://github.com/ThatOneCalculator?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
+    <a href="https://github.com/NotKisshore?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
    <details>
       <summary>View skills</summary>
