@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm RRR</b><br>
   <a href="https://discord.gg/notsaksh">Discord</a> |
-  <a href="https://twitter.com/KisshoreNot">Twitter</a> |
+  <a href="https://twitter.com/NotKisshore">Twitter</a> |
 </p>
 
 <p align="center"><br>
