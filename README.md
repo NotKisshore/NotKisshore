@@ -1,25 +1,32 @@
-![](https://hit.yhype.me/github/profile?user_id=44733677)
-<h1 align="center">Hi, I'm Kisshore! 👋</h1>
-<h3 align="center">An 15 year old fullstack developer!</h3>
-<h3 align="center">
-   <br>
-   </a>
+<p align='center'>
+  <b>Hi 👋, I'm RRR</b><br>
+  <a href="https://discord.gg/notsaksh">Discord</a> |
+  <a href="https://twitter.com/KisshoreNot">Twitter</a> |
+</p>
+
+<p align="center"><br>
+  <a href="https://github.com/s5fff8q4Qr">
+    <img src="https://lanyard.cnrad.dev/api/950613304991182928"/>
+     </a>
+</p>
+
+<br><br>
 <p align="center">
-   <details> <summary>View metrics</summary>
-    <a href="https://github.com/NotKisshore?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
-   </details>
-   <details>
-      <summary>View skills</summary>
-      
-   Programming languages<br>
-   <a href="https://github.com/syuilo/aiscript"><img src="https://skillicons.dev/icons?i=aiscript" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a> <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://haxe.org/"><img src="https://skillicons.dev/icons?i=haxe" /></a> <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a><br><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a> <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a> <a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a><br><br>
-   Frontend frameworks<br>
-   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a> <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" /></a> <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" /></a><br><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a> <a href="https://remix.run/"><img src="https://skillicons.dev/icons?i=remix" /></a> <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" /></a> <a href="https://tauri.studio/"><img src="https://skillicons.dev/icons?i=tauri" /></a> <a href="https://pugjs.org/"><img src="https://skillicons.dev/icons?i=pug" /></a> <br><br>
-   Document and design<br>
-   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" /></a> <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=markdown" /></a> <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" /></a> <a href="https://www.w3.org/Graphics/SVG/"><img src="https://skillicons.dev/icons?i=svg" /></a><br><br>
-   Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
-   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a> <a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=discordbots" /></a> <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unrealengine" /></a> &emsp;<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" /></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a> <br><br>
-   Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
-      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>&emsp;<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://bsd.org/"><img src="https://skillicons.dev/icons?i=bsd" /></a> <a href="https://9p.io/plan9/"><img src="https://skillicons.dev/icons?i=plan9" /></a> 
-</h3>
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NotKisshore&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=NotSaksh&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKisshore&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
